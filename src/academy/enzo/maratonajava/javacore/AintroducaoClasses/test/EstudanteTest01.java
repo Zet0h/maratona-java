@@ -1,4 +1,4 @@
-package academy.enzo.maratonajava.javacore.AintroducaoClasses.testando;
+package academy.enzo.maratonajava.javacore.AintroducaoClasses.test;
 
 import academy.enzo.maratonajava.javacore.AintroducaoClasses.dominio.Estudante;
 
