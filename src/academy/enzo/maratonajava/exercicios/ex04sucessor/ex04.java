@@ -1,4 +1,4 @@
-package academy.enzo.maratonajava.exercicios;
+package academy.enzo.maratonajava.exercicios.ex04sucessor;
 //Faça um algoritmo que receba um número inteiro e imprima na tela o seu antecessor e o seu sucessor.
 
 import java.util.Scanner;
